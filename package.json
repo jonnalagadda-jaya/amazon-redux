@@ -1,7 +1,7 @@
 {
   "name": "amazon-redux",
   "version": "0.1.0",
-  "homepage": "http://jonnalagadda-jaya.github.io/amazon-redux",
+  "homepage": "http://jonnalagadda-jaya.github.io/amazon-redux/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
